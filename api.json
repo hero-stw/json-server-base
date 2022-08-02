@@ -1,0 +1,49 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Rustic Chairs",
+        "price": "3000",
+        "image": "http://res.cloudinary.com/ecma-assignment/image/upload/v1645241888/Jsadvanced/Frame_11336_tgu9qv.png",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of ",
+        "cateProId": "3",
+        "product_date": "2022-2-19 10:38:9"
+      },
+      {
+        "id": 2,
+        "name": "Modern Table",
+        "price": 3000,
+        "image": "https://source.unsplash.com/random/?furniture",
+        "album": [
+          "https://source.unsplash.com/random",
+          "https://source.unsplash.com/random",
+          "https://source.unsplash.com/random",
+          "https://source.unsplash.com/random"
+        ],
+        "product_discount": 0.4,
+        "product_des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of ",
+        "product_status": 1,
+        "product_date": "2021/08/21",
+        "cateProId": 3,
+        "brandId": 1
+      },
+      {
+        "id": 3,
+        "name": "Elegant Table",
+        "price": 3000,
+        "image": "https://source.unsplash.com/random/?table",
+        "album": [
+          "https://source.unsplash.com/random",
+          "https://source.unsplash.com/random",
+          "https://source.unsplash.com/random",
+          "https://source.unsplash.com/random"
+        ],
+        "product_discount": 0.4,
+        "product_des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of ",
+        "product_status": 1,
+        "product_date": "2021/08/21",
+        "cateProId": 3,
+        "brandId": 1
+      }
+    ]
+    }
