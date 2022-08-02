@@ -1,5 +1,5 @@
-import jsonServer from "json-server";
-import auth from "json-server-auth";
+const jsonServer = require("json-server");
+const auth = require("json-server-auth");
 const server = jsonServer.create();
 const router = jsonServer.router("api.json");
 const middlewares = jsonServer.defaults({
